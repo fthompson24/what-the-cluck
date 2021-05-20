@@ -1,0 +1,39 @@
+/* Desktop - 1 */
+
+html {
+    background: url(./assets/img/pexels-tom-swinnen-3194495.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.level {
+    background: #001F54;
+    display: flex;
+    justify-content:space-around;
+
+}
+
+.pageName {
+    width: 393px;
+    height: 171px;
+    left: 269px;
+    top: 23.25px;
+    
+    font-family: Bangers;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 75px;
+    /* or 104% */
+    
+    display: flex;
+    align-items:flex-start;
+    text-align: center;
+    letter-spacing: 0.15em;
+    
+    color: #EEBA0F;
+    
+    -webkit-text-stroke-color: 3px solid #B00000;
+    transform: rotate(-5deg);}

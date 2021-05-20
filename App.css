@@ -1,0 +1,1683 @@
+.App {
+    text-align: center;
+};
+
+/* noun_Arrow_963015 1 **Squirly Line in header** */
+.App-logo{
+
+position: absolute;
+width: 129px;
+height: 133px;
+left: 693px;
+top: 36px;
+};
+
+ /* Group **Squirly Line in header** */
+
+.Group {
+    position: absolute;
+    left:   84.5%;
+    right: -55.64%;
+    top: 15.5%;
+    bottom: 17.58%;
+
+    transform: rotate(90deg);
+};
+
+/* Frame **Squirly Line in header** */
+
+.Frame {
+    position: absolute;
+    left: 84.5%;
+    right: -55.64%;
+    top: 15.5%;
+    bottom: 17.58%;
+
+    transform: rotate(90deg);
+};
+/* Group **Squirly Line in header** */
+
+.Group {
+    position: absolute;
+    left: 73.38%;
+    right: -63.38%;
+    top: 5.16%;
+    bottom: 43.54%;
+
+    transform: rotate(90deg);
+};
+
+/* Group  **Squirly Line in header**  */
+
+.Group {
+    position: absolute;
+    left: 73.38%;
+    right: -63.38%;
+    top: 5.16%;
+    bottom: 43.54%;
+
+    transform: rotate(90deg);
+};
+
+/* Vector **Squirly Line in header** */
+
+.Vector{
+position: absolute;
+left: 73.38%;
+right: -63.38%;
+top: 5.16%;
+bottom: 43.54%;
+
+background: #FFFFFF;
+transform: rotate(90deg);
+};
+
+/* Vector **Squirly Line in header** */
+
+.Vector {
+    position: absolute;
+    left: 53.44%;
+    right: 36.34%;
+    top: 39.16%;
+    bottom: 38.98%;
+
+    transform: rotate(90deg);
+    };
+
+    /* FOOTER */
+
+.footer{
+    position: absolute;
+    width: 755px;
+    height: 118px;
+    left: 176px;
+    top: 3154px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 100px;
+    /* or 208% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+
+    color: #FEFCFB;
+};
+
+
+/* Rectangle 25 */
+
+.Rectangle25 {
+    position: absolute;
+    width: 1080px;
+    height: 212px;
+    left: 0px;
+    top: 3102px;
+
+    background: #001F54;
+};
+
+/* News Article #3 */
+
+.NewsArticle3 {
+    position: absolute;
+    width: 184px;
+    height: 160px;
+    left: 797px;
+    top: 2807px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 100px;
+    /* or 500% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+
+    color: #000000;
+};
+
+/* News Article #2 */
+
+.NewsArticle2 {
+    position: absolute;
+    width: 184px;
+    height: 160px;
+    left: 454px;
+    top: 2810px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 100px;
+    /* or 500% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.15em;
+
+    color: #000000;
+};
+
+/* News Article #1 */
+
+.NewsArticle1 {
+position: absolute;
+width: 184px;
+height: 160px;
+left: 129px;
+top: 2807px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 100px;
+/* or 500% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #000000;
+};
+
+/* Rectangle 24 */
+
+.Rectangle24 {
+    position: absolute;
+    width: 308px;
+    height: 346px;
+    left: 709px;
+    top: 2714px;
+
+    background: #FEFCFB;
+    border: 3px solid #B00000;
+    box-sizing: border-box;
+};
+
+/* Rectangle 23 */
+
+.Rectangle23 {
+    position: absolute;
+    width: 304px;
+    height: 346px;
+    left: 389px;
+    top: 2714px;
+
+    background: #FEFCFB;
+    border: 3px solid #B00000;
+    box-sizing: border-box;
+};  
+
+/* Rectangle 20 */
+
+.Rectangle20 {
+position: absolute;
+width: 307px;
+height: 346px;
+left: 64px;
+top: 2714px;
+
+background: #FEFCFB;
+border: 3px solid #B00000;
+box-sizing: border-box;
+};
+
+
+/* noun_Bird Footprint_597385 6  Foot6 */
+
+.Foot6 {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1073.17px;
+top: 2413.23px;
+
+transform: rotate(110deg);
+};
+
+    /* Group Foot6 */
+
+        .Foot6a {
+        position: absolute;
+        left: 94.8%;
+        right: -39.19%;
+        top: 69.29%;
+        bottom: -15.12%;
+
+        transform: rotate(110deg);
+        };
+
+     /* Vector   Foot6  */
+
+        .Foot6b {
+        position: absolute;
+        left: 51.97%;
+        right: 45.02%;
+        top: 71.44%;
+        bottom: 22.24%;
+
+        background: #FFFFFF;
+        transform: rotate(110deg);
+        };
+
+        /* Vector  Foot6 */
+
+            .Foot6c {
+            position: absolute;
+            left: 58.49%;
+            right: 39.61%;
+            top: 101.28%;
+            bottom: -3.57%;
+
+            background: #FFFFFF;
+            transform: rotate(110deg);
+            };
+
+        /* Vector Foot 6 */
+
+            .Foot6d {
+            position: absolute;
+            left: 82.77%;
+            right: 14.38%;
+            top: 64.91%;
+            bottom: 31.48%;
+
+            background: #FFFFFF;
+            transform: rotate(110deg);
+            };
+
+        /* Vector  Foot 6 */
+
+            .Foot6e {
+            position: absolute;
+            left: 87.1%;
+            right: 10.37%;
+            top: 90.45%;
+            bottom: 5.98%;
+
+            background: #FFFFFF;
+            transform: rotate(110deg);
+            };
+
+            /* Vector Foot 6*/
+
+            .Foot6f {
+            position: absolute;
+            left: 89.63%;
+            right: -29.01%;
+            top: 69.83%;
+            bottom: -1.34%;
+
+            background: #FFFFFF;
+            transform: rotate(110deg);
+            };
+
+
+/* noun_Bird Footprint_597385 5 */
+
+.Foot5 {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 883.6px;
+top: 2317.6px;
+
+transform: rotate(90deg);
+};
+
+/* Group   Foot 5*/
+
+.Foot5 {
+position: absolute;
+left: 80.65%;
+right: -25.03%;
+top: 44.38%;
+bottom: 9.79%;
+
+transform: rotate(90deg);
+};
+
+/* Vector  Foot 5  */
+
+.Foot5a {
+position: absolute;
+left: 41.13%;
+right: 55.86%;
+top: 61.06%;
+bottom: 32.63%;
+
+background: #FFFFFF;
+transform: rotate(90deg);
+};
+
+/* Vector  Foot 5 */
+
+.Footb {
+position: absolute;
+left: 57.47%;
+right: 40.63%;
+top: 86.87%;
+bottom: 10.85%;
+
+background: #FFFFFF;
+transform: rotate(90deg);
+};
+
+/* Vector Foot 5 */
+
+.Foot5c  {
+position: absolute;
+left: 67.84%;
+right: 29.31%;
+top: 44.38%;
+bottom: 52.01%;
+
+background: #FFFFFF;
+transform: rotate(90deg);
+};
+
+/* Vector  Foot 5 */
+
+.Foot5d {
+position: absolute;
+left: 80.65%;
+right: 16.83%;
+top: 66.9%;
+bottom: 29.53%;
+
+background: #FFFFFF;
+transform: rotate(90deg);
+};
+
+/* Vector Foot 5 */
+
+.Foot5e {
+position: absolute;
+left: 75.97%;
+right: -15.34%;
+top: 46.66%;
+bottom: 21.83%;
+
+background: #FFFFFF;
+transform: rotate(90deg);
+};
+
+
+/* noun_Bird Footprint_597385 4 Foot 4 */
+
+.Foot4 {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 664.21px;
+top: 2305px;
+
+transform: rotate(60deg);
+};
+
+/* Group  Foot 4 */
+
+.Foot4a {
+position: absolute;
+left: 69.84%;
+right: -58.61%;
+top: 9.68%;
+bottom: 29.03%;
+
+transform: rotate(60deg);
+};
+
+/* Group  Foot 4 */
+
+.Foot4b {
+position: absolute;
+left: 92.03%;
+right: -36.42%;
+top: 48.11%;
+bottom: 6.06%;
+
+transform: rotate(60deg);
+};
+
+/* Vector  Foot 4 */
+
+.Foot4c {
+position: absolute;
+left: 66.15%;
+right: 30.84%;
+top: 82.31%;
+bottom: 11.38%;
+
+background: #FFFFFF;
+transform: rotate(60deg);
+};
+
+/* Vector Foot 4 */
+
+.Foot4d {
+position: absolute;
+left: 93.2%;
+right: 4.9%;
+top: 96.5%;
+bottom: 1.22%;
+
+background: #FFFFFF;
+transform: rotate(60deg);
+};
+
+/* Vector  Foot 4*/
+
+.Foot4e {
+position: absolute;
+left: 80.94%;
+right: 16.21%;
+top: 54.52%;
+bottom: 41.87%;
+
+background: #FFFFFF;
+transform: rotate(60deg);
+};
+
+/* Vector Foot 4 */
+
+.Foot4f {
+position: absolute;
+left: 103.29%;
+right: -5.82%;
+top: 67.62%;
+bottom: 28.81%;
+
+background: #FFFFFF;
+transform: rotate(60deg);
+};
+
+/* Vector  Foot 4 */
+
+.Foot4g {
+position: absolute;
+left: 89.12%;
+right: -28.5%;
+top: 52.42%;
+bottom: 16.07%;
+
+background: #FFFFFF;
+transform: rotate(60deg);
+};
+
+/* noun_Bird Footprint_597385 2 Foot 2 */
+
+.Foot2 {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 541.37px;
+top: 2345.43px;
+
+transform: rotate(70deg);
+};
+
+/* Group  Foot 2 */
+
+.Foot2a {
+position: absolute;
+left: 75.78%;
+right: -64.55%;
+top: 6.62%;
+bottom: 32.09%;
+
+transform: rotate(70deg);
+};
+
+/* Group  Foot 2 */
+
+.Foot2b {
+position: absolute;
+left: 90.96%;
+right: -35.35%;
+top: 48.33%;
+bottom: 5.84%;
+
+transform: rotate(70deg);
+};
+
+/* Vector  Foot 2 */
+
+.Foot2c {
+position: absolute;
+left: 59.53%;
+right: 37.45%;
+top: 77.51%;
+bottom: 16.18%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+/* Vector Foot 2 */
+
+.Foot2d {
+position: absolute;
+left: 83.71%;
+right: 14.39%;
+top: 96.18%;
+bottom: 1.54%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+/* Vector  Foot 2 */
+
+.Foot2e {
+position: absolute;
+left: 78.93%;
+right: 18.22%;
+top: 52.71%;
+bottom: 43.68%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+/* Vector  Foot 2 */
+
+.Foot2f {
+position: absolute;
+left: 98.66%;
+right: -1.19%;
+top: 69.49%;
+bottom: 26.94%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+/* Vector  Foot 2 */
+
+.Foot2g {
+position: absolute;
+left: 87.34%;
+right: -26.72%;
+top: 52.06%;
+bottom: 16.42%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+
+
+/* noun_Bird Footprint_597385 3 Foot 3 */
+
+.Foot3 {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 414.02px;
+top: 2386.06px;
+
+transform: rotate(100deg);
+};
+
+
+/* Group  Foot 3 */
+
+.Foot3a {
+position: absolute;
+left: 96.79%;
+right: -85.56%;
+top: 14%;
+bottom: 24.7%;
+
+transform: rotate(100deg);
+};
+
+/* Group   Foot 3 */
+
+.Foot3b {
+position: absolute;
+left: 89.08%;
+right: -33.46%;
+top: 57.71%;
+bottom: -3.54%;
+
+transform: rotate(100deg);
+};
+
+/* Vector   Foot 3 */
+
+.Foot3c {
+position: absolute;
+left: 47.27%;
+right: 49.72%;
+top: 67.27%;
+bottom: 26.41%;
+
+background: #FFFFFF;
+transform: rotate(100deg);
+};
+
+/* Vector  Foot 3 */
+
+.Foot3d {
+position: absolute;
+left: 58.87%;
+right: 39.23%;
+top: 95.53%;
+bottom: 2.19%;
+
+background: #FFFFFF;
+transform: rotate(100deg);
+};
+
+
+/* Vector  Foot 3 */
+
+.Foot3e {
+position: absolute;
+left: 76.47%;
+right: 20.68%;
+top: 55.49%;
+bottom: 40.9%;
+
+background: #FFFFFF;
+transform: rotate(100deg);
+};
+
+/* Vector  Foot 3  */
+
+.Foot3f {
+position: absolute;
+left: 85.17%;
+right: 12.31%;
+top: 79.89%;
+bottom: 16.54%;
+
+background: #FFFFFF;
+transform: rotate(100deg);
+};
+
+/* Vector   Foot 3 */
+
+.Foot3g {
+position: absolute;
+left: 84.08%;
+right: -23.45%;
+top: 59.14%;
+bottom: 9.35%;
+
+background: #FFFFFF;
+transform: rotate(100deg);
+};
+
+
+
+/* noun_Bird Footprint_597385 1   Foot 1 */
+
+.Foot1 {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 218.94px;
+top: 2386px;
+
+transform: rotate(70deg);
+};
+
+/* Group  Foot 1 */
+
+.Foot1a {
+position: absolute;
+left: 75.78%;
+right: -64.55%;
+top: 6.62%;
+bottom: 32.09%;
+
+transform: rotate(70deg);
+};
+
+
+/* Group  Foot 1 */
+
+.Foot1b {
+position: absolute;
+left: 90.96%;
+right: -35.35%;
+top: 48.33%;
+bottom: 5.84%;
+
+transform: rotate(70deg);
+};
+
+/* Vector   Foot 1 */
+
+.Foot1c {
+position: absolute;
+left: 59.53%;
+right: 37.45%;
+top: 77.51%;
+bottom: 16.18%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+/* Vector   Foot 1 */
+
+.Foot1d {
+position: absolute;
+left: 83.71%;
+right: 14.39%;
+top: 96.18%;
+bottom: 1.54%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+
+/* Vector   Foot 1 */
+
+.Foot1e {
+position: absolute;
+left: 78.93%;
+right: 18.22%;
+top: 52.71%;
+bottom: 43.68%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+
+/* Vector    Foot 1 */
+
+.Foot1f {
+position: absolute;
+left: 98.66%;
+right: -1.19%;
+top: 69.49%;
+bottom: 26.94%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+
+/* Vector  Foot 1 */
+
+.Foot1g {
+position: absolute;
+left: 87.34%;
+right: -26.72%;
+top: 52.06%;
+bottom: 16.42%;
+
+background: #FFFFFF;
+transform: rotate(70deg);
+};
+
+
+/* Address Hours Link */
+
+.AddressHours1 {
+position: absolute;
+width: 129px;
+height: 75px;
+left: 564px;
+top: 2062px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #182E4C;
+};
+
+/* Address Hours Link */
+
+.AddressHours2 {
+position: absolute;
+width: 129px;
+height: 75px;
+left: 551px;
+top: 1812px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #182E4C;
+};
+
+/* Address Hours Link */
+
+.AddressHours3 {
+position: absolute;
+width: 129px;
+height: 75px;
+left: 551px;
+top: 1570px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #182E4C;
+};
+
+/* Address Hours Link */
+
+.AddressHours3 {
+position: absolute;
+width: 129px;
+height: 75px;
+left: 551px;
+top: 1570px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #182E4C;
+};
+
+
+/* Address Hours Link */
+
+.AddressHours4 {
+position: absolute;
+width: 129px;
+height: 75px;
+left: 551px;
+top: 1312px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #182E4C;
+};
+
+
+/* NAME */
+
+.NAME1 {
+position: absolute;
+width: 229px;
+height: 75px;
+left: 327px;
+top: 2062px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 25px;
+/* or 69% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #B00000;
+
+border: 1px solid #EEBA0F;
+};
+
+
+/* NAME */
+
+.NAME2 {
+position: absolute;
+width: 229px;
+height: 75px;
+left: 314px;
+top: 1812px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 25px;
+/* or 69% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #B00000;
+
+border: 1px solid #EEBA0F;
+};
+
+
+/* NAME */
+
+.NAME3 {
+position: absolute;
+width: 229px;
+height: 75px;
+left: 314px;
+top: 1570px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 25px;
+/* or 69% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #B00000;
+
+border: 1px solid #EEBA0F;
+};
+
+
+/* NAME */
+
+.NAME4 {
+position: absolute;
+width: 229px;
+height: 75px;
+left: 314px;
+top: 1312px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 25px;
+/* or 69% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #B00000;
+
+border: 1px solid #EEBA0F;
+};
+
+
+/* AD */
+
+.AD {
+position: absolute;
+width: 98px;
+height: 72px;
+left: 889px;
+top: 374px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+};
+
+
+/* AD */
+
+.AD1 {
+position: absolute;
+width: 98px;
+height: 72px;
+left: 78px;
+top: 374px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+};
+
+
+/* Rectangle 19 */
+
+.Rectangle19 {
+position: absolute;
+width: 143px;
+height: 220px;
+left: 874px;
+top: 295px;
+
+background: #C4C4C4;
+};
+
+
+/* Rectangle 18 */
+
+.Rectangle18 {
+position: absolute;
+width: 143px;
+height: 220px;
+left: 63px;
+top: 295px;
+
+background: #C4C4C4;
+};
+
+
+/* Rectangle 17 */
+
+.Rectangle17 {
+position: absolute;
+width: 549px;
+height: 200px;
+left: 306px;
+top: 2000px;
+
+background: #FEFCFB;
+border-radius: 50px;
+};
+
+
+/* Rectangle 16 */
+
+.Rectangle16 {
+position: absolute;
+width: 549px;
+height: 200px;
+left: 306px;
+top: 1750px;
+
+background: #FEFCFB;
+border-radius: 50px;
+};
+
+
+/* Rectangle 15 */
+
+.Rectangle15 {
+position: absolute;
+width: 549px;
+height: 200px;
+left: 306px;
+top: 1500px;
+
+background: #FEFCFB;
+border-radius: 50px;
+};
+
+
+/* Rectangle 14 */
+
+.Rectangle14 {
+position: absolute;
+width: 549px;
+height: 200px;
+left: 306px;
+top: 1250px;
+
+background: #FEFCFB;
+border-radius: 50px;
+};
+
+
+/* Next 4... */
+
+.Next4 {
+position: absolute;
+width: 215px;
+height: 28px;
+left: 478px;
+top: 2256px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+};
+
+
+/* Rectangle 13 */
+
+.Rectangle13 {
+position: absolute;
+width: 242px;
+height: 52px;
+left: 451px;
+top: 2244px;
+
+background: #C4C4C4;
+};
+
+
+/* 4 */
+
+.Four {
+position: absolute;
+width: 29px;
+height: 28px;
+left: 231px;
+top: 2086px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #FFFFFF;
+};
+
+/* 3 */
+
+.three {
+position: absolute;
+width: 29px;
+height: 28px;
+left: 231px;
+top: 1836px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #FFFFFF;
+};
+
+/* 2 */
+
+.two {
+position: absolute;
+width: 29px;
+height: 28px;
+left: 231px;
+top: 1586px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #FFFFFF;
+};
+
+
+/* 1 */
+
+.one {
+position: absolute;
+width: 29px;
+height: 33px;
+left: 231px;
+top: 1333px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #FFFFFF;
+};
+
+
+/* Ellipse 14 */
+
+.Ellipse14 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 225px;
+top: 2080px;
+
+background: #B00000;
+border: 3px solid #EEBA0F;
+box-sizing: border-box;
+};
+
+
+/* Ellipse 13 */
+
+.Ellipse13 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 225px;
+top: 1830px;
+
+background: #B00000;
+border: 3px solid #EEBA0F;
+box-sizing: border-box;
+};
+
+
+/* Ellipse 12 */
+
+.Ellipse12  {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 225px;
+top: 1580px;
+
+background: #B00000;
+border: 3px solid #EEBA0F;
+box-sizing: border-box;
+};
+
+
+/* Ellipse 11 */
+
+.Ellipse11 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 225px;
+top: 1330px;
+
+background: #B00000;
+border: 3px solid #EEBA0F;
+box-sizing: border-box;
+};
+
+
+/* NAME */
+
+.Name {
+position: absolute;
+width: 229px;
+height: 75px;
+left: 451px;
+top: 743px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 25px;
+/* or 39% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #FEFCFB;
+
+border: 3px solid #B00000;
+};
+
+
+/* Address Hours Link  Center */
+
+.AddrHour {
+position: absolute;
+width: 129px;
+height: 75px;
+left: 451px;
+top: 825px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15em;
+
+color: #FEFCFB;
+};
+
+
+
+/* Featured */
+
+.Featured {
+position: absolute;
+width: 338px;
+height: 60px;
+left: 371px;
+top: 680px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 25px;
+/* or 62% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35em;
+
+color: #B00000;
+
+border: 3px solid #EEB918;
+};
+
+
+
+/* noun_Star_64516 1 */
+
+.NounStar {
+position: absolute;
+width: 201px;
+height: 185px;
+left: 250px;
+top: 710px;
+};
+
+
+
+/* MAP */
+
+.MAP {
+position: absolute;
+width: 338px;
+height: 129px;
+left: 371px;
+top: 341px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+};
+
+
+/* Rectangle 10 */
+
+.Rectangle10 {
+position: absolute;
+width: 630px;
+height: 401px;
+left: 225px;
+top: 214px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border: 10px solid #0674DB;
+};
+
+
+/* Find the best NHC near you! */
+
+.NHCLoc {
+position: absolute;
+width: 260px;
+height: 101px;
+left: 780px;
+top: 11px;
+
+font-family: Painting With Chocolate;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FEFCFB;
+};
+
+
+/* noun_Chicken_2396942 (1) 1 */
+
+.NChick {
+position: absolute;
+width: 145px;
+height: 151px;
+left: 124px;
+top: 16px;
+};
+
+        /* Group */
+
+    .GroupNChick {
+    position: absolute;
+    left: 2.4%;
+    right: 2.4%;
+    top: 12.01%;
+    bottom: 12.01%;
+    };
+
+    /* Vector */
+
+    .VectNChick {
+    position: absolute;
+    left: 2.4%;
+    right: 2.4%;
+    top: 12.01%;
+    bottom: 12.01%;
+
+    background: #B00000;
+    };
+
+
+/* Enter address... */
+
+.EntrAddr {
+position: absolute;
+width: 275px;
+height: 27px;
+left: 765px;
+top: 120px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 50px;
+/* or 278% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+};
+
+
+/* Rectangle 9 */
+
+.Rectangle9 {
+position: absolute;
+width: 226px;
+height: 41px;
+left: 790px;
+top: 113px;
+
+background: #C4C4C4;
+};
+
+
+
+/* WHERE THE CLUCK */
+
+.Cluck {
+position: absolute;
+width: 393px;
+height: 171px;
+left: 269px;
+top: 23.25px;
+
+font-family: Bangers;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 75px;
+/* or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.15em;
+
+color: #EEBA0F;
+
+border: 3px solid #B00000;
+transform: rotate(-5deg);
+};
+
+
+/* Rectangle 8 */
+
+.Rectangle8 {
+position: absolute;
+width: 1080px;
+height: 184px;
+left: 0px;
+top: 0px;
+
+background: #001F54;
+mix-blend-mode: normal;
+};
+
+
+/* Rectangle 12 */
+
+.Rectangle12 {
+position: absolute;
+width: 790px;
+height: 1237px;
+left: 145px;
+top: 1080px;
+
+background: rgba(0, 31, 84, 0.9);
+border-radius: 50px;
+};
+
+
+/* Rectangle 11 */
+
+.Rectangle11 {
+position: absolute;
+width: 630px;
+height: 275px;
+left: 225px;
+top: 665px;
+
+background: rgba(0, 31, 84, 0.9);
+border-radius: 50px;
+};
+
+    
+

@@ -1,4 +1,5 @@
-# What-the-Cluck--A Nashville Hot Chicken Directory
+# What-the-Cluck
+# A Nashville Hot Chicken Directory
 
 
 An app created to help the user easily find Nashville hot chicken near you and introduce the user
